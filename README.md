@@ -1,19 +1,11 @@
-# Módulo 3 - Trilha HTML
+# Projeto de Melhoria do Layout da Wikipédia
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Melhorando a Wikipédia: Semântica e Acessibilidade em Foco
 
 ## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+Este projeto tem como objetivo melhorar o layout da página principal da Wikipédia, aplicando técnicas de semântica e acessibilidade, visando tornar a Wikipédia mais acessível e fácil de usar para todos.
 
 ## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+Neste repositório, você encontrará uma estrutura básica pré-montada de um layout simples com um pouco de CSS aplicado. O desafio é melhorar, continuamente, esse layout, aplicando os princípios de semântica e acessibilidade que aprendemos.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
-
-
+Para fins de demonstração, foi desenvolvida uma página sobre a série de TV "Lucifer". Sinta-se à vontade para criar da forma que desejar e sobre os temas que preferir.
