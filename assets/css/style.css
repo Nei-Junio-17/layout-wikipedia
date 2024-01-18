@@ -222,17 +222,17 @@ header{
 .text-search::placeholder{
     font-weight: 600;
     color: #969595;
- }
+}
 
- .login{
+.login{
     display: flex;
     width: 20%;
     height: auto;
     justify-content: center;
     margin-right: 30px;
- }
+}
 
- .btn-login{
+.btn-login{
     display: flex;
     height: 40px;
     width: 130px;
@@ -246,40 +246,40 @@ header{
     font-size: 20px;
     font-weight: 600;
     background-color: #c20808;
- }
+}
  
- footer{
+footer{
     width: 100%;
     display: flex;
     height: auto;
     justify-content: center;
     align-items: center;
     border-top: solid 1px #cdcdcd;
- }
+}
 
- .text-footer{
+.text-footer{
     width: auto;
     text-align: center;
     line-height: 10px;
     margin: 20px auto 10px;
- }
+}
 
- .text-muted{
+.text-muted{
     color: #969595;
     font-weight: 500;
- }
+}
 
- #references{
+#references{
     margin-top: 50px;
     border-top: solid 1px #cdcdcd;
     margin-bottom: 25px;
     text-align: justify;
- }
+}
 
- #references a{
+#references a{
     text-decoration: underline;
     font-family: Verdana, Geneva, Tahoma, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,'Franklin Gothic Medium',  Arial, sans-serif, 'Times New Roman', Times, serif;    
- }
+}
 
 hr{
     width: 100%;
